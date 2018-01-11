@@ -1,0 +1,105 @@
+{
+    "error": 0,
+    "result": 200,
+    "data":{
+        "banners": [{
+                    "id": 33991,
+                    "title": "《山海逆战》更新至第148回",
+                    "imgUrl": "http://mhfm3218us.cdndm5.com/34/33991/20171019173913_640x400_116.jpg",
+                    "showDurationMillisecond": 2500
+                    }, {
+                    "id": 21077,
+                    "title": "《Bloody Girl》更新至第99回",
+                    "imgUrl": "http://mhfm3218us.cdndm5.com/22/21077/20171108121013_640x400_79.jpg",
+                    "showDurationMillisecond": 2500
+                    }, {
+                    "id": 33469,
+                    "title": "《黑夜之歌》更新至第38回",
+                    "imgUrl": "http://mhfm7218us.cdndm5.com/34/33469/20171027151457_640x400_84.jpg",
+                    "showDurationMillisecond": 2500
+                    }, {
+                    "id": 21074,
+                    "title": "《我和天师有个约会》更新至第64回",
+                    "imgUrl": "http://mhfm2218us.cdndm5.com/22/21074/20170731164128_640x400_102.jpg",
+                    "showDurationMillisecond": 2500
+                    }, {
+                    "id": 21445,
+                    "title": "《阴阳宅急便》更新至第67回",
+                    "imgUrl": "http://mhfm8218us.cdndm5.com/22/21445/20170731164304_640x400_113.jpg",
+                    "showDurationMillisecond": 2500
+                    }],
+        "cards": [{
+                  "footer": [],
+                  "header": [],
+                  "title" : "first cards",
+                  "showMore" : {
+	                  "title" : "want to see more ?",
+	                  "icon" : "",
+	                  "hidden" : false
+                  },
+                  "contents": [{
+                               "title": "",
+                               "thm": "http://images.comico.com.tw/up_tw/r01/bn_app_home/app_top_tsumasaki02.jpg"
+                               }, {
+                               "title": "",
+                               "thm": "http://images.comico.com.tw/up_tw/r01/bn_app_home/app_top_kimitona6.jpg"
+                               }, {
+                               "title": "",
+                               "thm": "http://images.comico.com.tw/up_tw/r01/bn_app_home/171116_nextweek_750x422_app.jpg"
+                               }, {
+                               "title": "",
+                               "thm": "http://images.comico.com.tw/up_tw/r01/bn_app_home/171109_comico_750x422_app.jpg"
+                               }, {
+                               "title": "",
+                               "thm": "http://images.comico.com.tw/up_tw/r01/bn_app_home/171108_kakao_750x422_app.jpg"
+                               }, {
+                               "title": "",
+                               "thm": "http://images.comico.com.tw/up_tw/r01/bn_app_home/2017_contest_750x422_app.jpg"
+                               }, {
+                               "title": "",
+                               "thm": "http://images.comico.com.tw/up_tw/r01/bn_app_home/171016_comico_750x422_app.jpg"
+                               }, {
+                               "title": "",
+                               "thm": "http://images.comico.com.tw/up_tw/r01/bn_app_home/170519_comicopay_750x422v.jpg"
+                               }]
+                  },{
+                  "title" : "second...",
+				  "showMore" : {
+	                  "title" : "want to see more ?",
+	                  "icon" : "",
+	                  "hidden" : true
+                  },
+                  "footer": [],
+                  "header": [{
+                             "title": "明明是宅男，卻這麼受歡迎！？"
+                             }],
+                  "contents": [{
+                               "icon": "",
+                               "title": "可愛的女僕伴身邊\t\t\t\t\t\t\t\t",
+                               "thm": "http://images.comico.com.tw/up_tw/r01/home/app_homep_maid07.jpg",
+                               "subtitle": "等等這太超過了\t\t\t\t\t\t"
+                               }, {
+                               "icon": "",
+                               "title": "還有個青梅竹馬\t\t\t\t\t\t\t",
+                               "thm": "http://images.comico.com.tw/up_tw/r01/home/app_homep_maid08.jpg",
+                               "subtitle": "這眼神好像有點熱情\t\t\t\t\t\t\t\t\t\t\t\t"
+                               }, {
+                               "icon": "",
+                               "title": "甚至連男同學都…\t\t\t",
+                               "thm": "http://images.comico.com.tw/up_tw/r01/home/app_homep_maid09.jpg",
+                               "subtitle": "我不要這種受歡迎啊\t\t\t\t\t\t"
+                               }, {
+                               "icon": "",
+                               "title": "雖然是他是宅男\t\t\t\t\t\t\t\t\t\t\t\t",
+                               "thm": "http://images.comico.com.tw/up_tw/r01/home/app_homep_maid06.jpg",
+                               "subtitle": "可是很善良又溫柔的\t\t\t\t\t\t"
+                               },{
+                               "icon": "",
+                               "title": "但卻對三次元沒興趣?\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+                               "thm": "http://images.comico.com.tw/up_tw/r01/home/app_homep_maid04.jpg",
+                               "subtitle": "我的同學是女僕\t\t\t\t\t"
+                               }]
+                  }]
+        
+    }
+}
