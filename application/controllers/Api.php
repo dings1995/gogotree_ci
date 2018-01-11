@@ -76,10 +76,9 @@ class Api extends CI_Controller {
             header("content-type:image/".$ext);
             echo file_get_contents($file);
         }else{
+            echo $file;
             echo "image not exist";
         }
-
-
     }
 
     public function images(){
